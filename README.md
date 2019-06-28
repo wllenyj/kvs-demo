@@ -1,6 +1,6 @@
 # kvs-demo
 根据[课程 rust project-5](https://github.com/pingcap/talent-plan)修改，使用async/await新语法。
- * 添加scan key命令，key可以是正则表达式，使用[regex库](https://github.com/rust-lang/regex)
+ * 添加scan key命令，浏览所有key，key是正则表达式，使用[regex库](https://github.com/rust-lang/regex)
  * 客户端添加console命令，交互形式。
 
 ### 环境
